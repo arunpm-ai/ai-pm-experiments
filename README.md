@@ -13,7 +13,7 @@ Move from product thinking to working prototypes using AI.
 
 ## Experiments
 
-### Experiment 01 — Setup Phase
+### Experiment 01 : Setup Phase
 Goal: Establish GitHub workflow and begin AI-assisted building.
 
 Status: In progress
